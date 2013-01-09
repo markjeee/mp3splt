@@ -22,8 +22,8 @@ if [[ ! -f $DIST_FILE ]];then
 # THIS FILE IS NOT SUPPORTED BY GENTOO, CAN HARM AND BREAK YOUR SYSTEM FOR GOOD!
 # THERE IS NO GUARANTEE OR WARRANTY OF ANY KIND USE IT ON YOUR OWN RISK!
 #
-# e-build by Miklos Bagi Jr. <mbjr@mbjr.hu>
-# modified by Munteanu Alexandru Ionut <io_alex_2002@yahoo.fr>
+# e-build by Miklos Bagi Jr. <mbjr at mbjr.hu>
+# modified by Munteanu Alexandru Ionut <io_alex_2002 at yahoo.fr>
 
 DESCRIPTION=\"Mp3splt is a command line program to cut mp3 and ogg without decoding. It uses libmp3splt.\"
 HOMEPAGE=\"http://mp3splt.sourceforge.net/\"
